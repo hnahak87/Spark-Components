@@ -1,4 +1,4 @@
-package wyn.spark.scala
+package in.spark.scala
 
 import org.apache.spark.SparkContext._
 import org.apache.spark.{SparkConf, SparkContext}
